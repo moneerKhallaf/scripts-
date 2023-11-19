@@ -1,0 +1,1478 @@
+[
+    {
+        "country_code": "AF",
+        "dail_code": "+93",
+        "name_en": "Afghanistan",
+        "name_ar": "أفغانستان"
+    },
+    {
+        "country_code": "AX",
+        "dail_code": "+358",
+        "name_en": "Aland Islands",
+        "name_ar": "جزر آلاند"
+    },
+    {
+        "country_code": "AL",
+        "dail_code": "+355",
+        "name_en": "Albania",
+        "name_ar": "ألبانيا"
+    },
+    {
+        "country_code": "DZ",
+        "dail_code": "+213",
+        "name_en": "Algeria",
+        "name_ar": "الجزائر"
+    },
+    {
+        "country_code": "AS",
+        "dail_code": "+1684",
+        "name_en": "American Samoa",
+        "name_ar": "ساموا الأمريكية"
+    },
+    {
+        "country_code": "AD",
+        "dail_code": "+376",
+        "name_en": "Andorra",
+        "name_ar": "أندورا"
+    },
+    {
+        "country_code": "AO",
+        "dail_code": "+244",
+        "name_en": "Angola",
+        "name_ar": "أنغولا"
+    },
+    {
+        "country_code": "AI",
+        "dail_code": "+1264",
+        "name_en": "Anguilla",
+        "name_ar": "أنغيلا"
+    },
+    {
+        "country_code": "AQ",
+        "dail_code": "+672",
+        "name_en": "Antarctica",
+        "name_ar": "أنتاركتيكا"
+    },
+    {
+        "country_code": "AG",
+        "dail_code": "+1268",
+        "name_en": "Antigua and Barbuda",
+        "name_ar": "أنتيغوا وبربودا"
+    },
+    {
+        "country_code": "AR",
+        "dail_code": "+54",
+        "name_en": "Argentina",
+        "name_ar": "الأرجنتين"
+    },
+    {
+        "country_code": "AM",
+        "dail_code": "+374",
+        "name_en": "Armenia",
+        "name_ar": "أرمينيا"
+    },
+    {
+        "country_code": "AW",
+        "dail_code": "+297",
+        "name_en": "Aruba",
+        "name_ar": "أروبا"
+    },
+    {
+        "country_code": "AC",
+        "dail_code": "+247",
+        "name_en": "Ascension Island",
+        "name_ar": "جزيرة أسنسيون"
+    },
+    {
+        "country_code": "AU",
+        "dail_code": "+61",
+        "name_en": "Australia",
+        "name_ar": "أستراليا"
+    },
+    {
+        "country_code": "AT",
+        "dail_code": "+43",
+        "name_en": "Austria",
+        "name_ar": "النمسا"
+    },
+    {
+        "country_code": "AZ",
+        "dail_code": "+994",
+        "name_en": "Azerbaijan",
+        "name_ar": "أذربيجان"
+    },
+    {
+        "country_code": "BS",
+        "dail_code": "+1242",
+        "name_en": "Bahamas",
+        "name_ar": "جزر البهاما"
+    },
+    {
+        "country_code": "BH",
+        "dail_code": "+973",
+        "name_en": "Bahrain",
+        "name_ar": "البحرين"
+    },
+    {
+        "country_code": "BD",
+        "dail_code": "+880",
+        "name_en": "Bangladesh",
+        "name_ar": "بنغلاديش"
+    },
+    {
+        "country_code": "BB",
+        "dail_code": "+1246",
+        "name_en": "Barbados",
+        "name_ar": "بربادوس"
+    },
+    {
+        "country_code": "BY",
+        "dail_code": "+375",
+        "name_en": "Belarus",
+        "name_ar": "بيلاروسيا"
+    },
+    {
+        "country_code": "BE",
+        "dail_code": "+32",
+        "name_en": "Belgium",
+        "name_ar": "بلجيكا"
+    },
+    {
+        "country_code": "BZ",
+        "dail_code": "+501",
+        "name_en": "Belize",
+        "name_ar": "بليز"
+    },
+    {
+        "country_code": "BJ",
+        "dail_code": "+229",
+        "name_en": "Benin",
+        "name_ar": "بنين"
+    },
+    {
+        "country_code": "BM",
+        "dail_code": "+1441",
+        "name_en": "Bermuda",
+        "name_ar": "برمودا"
+    },
+    {
+        "country_code": "BT",
+        "dail_code": "+975",
+        "name_en": "Bhutan",
+        "name_ar": "بوتان"
+    },
+    {
+        "country_code": "BO",
+        "dail_code": "+591",
+        "name_en": "Bolivia",
+        "name_ar": "بوليفيا"
+    },
+    {
+        "country_code": "BA",
+        "dail_code": "+387",
+        "name_en": "Bosnia and Herzegovina",
+        "name_ar": "البوسنة والهرسك"
+    },
+    {
+        "country_code": "BW",
+        "dail_code": "+267",
+        "name_en": "Botswana",
+        "name_ar": "بوتسوانا"
+    },
+    {
+        "country_code": "BR",
+        "dail_code": "+55",
+        "name_en": "Brazil",
+        "name_ar": " البرازيل "
+    },
+    {
+        "country_code": "IO",
+        "dail_code": "+246",
+        "name_en": "British Indian Ocean Territory",
+        "name_ar": "إقليم المحيط الهندي البريطاني"
+    },
+    {
+        "country_code": "BN",
+        "dail_code": "+673",
+        "name_en": "Brunei Darussalam",
+        "name_ar": "بروناي دار السلام"
+    },
+    {
+        "country_code": "BG",
+        "dail_code": "+359",
+        "name_en": "Bulgaria",
+        "name_ar": "بلغاريا"
+    },
+    {
+        "country_code": "BF",
+        "dail_code": "+226",
+        "name_en": "Burkina Faso",
+        "name_ar": "بوركينا فاسو"
+    },
+    {
+        "country_code": "BI",
+        "dail_code": "+257",
+        "name_en": "Burundi",
+        "name_ar": "بوروندي"
+    },
+    {
+        "country_code": "KH",
+        "dail_code": "+855",
+        "name_en": "Cambodia",
+        "name_ar": "كمبوديا"
+    },
+    {
+        "country_code": "CM",
+        "dail_code": "+237",
+        "name_en": "Cameroon",
+        "name_ar": "الكاميرون"
+    },
+    {
+        "country_code": "CA",
+        "dail_code": "+1",
+        "name_en": "Canada",
+        "name_ar": "كندا"
+    },
+    {
+        "country_code": "CV",
+        "dail_code": "+238",
+        "name_en": "Cape Verde",
+        "name_ar": "الرأس الأخضر"
+    },
+    {
+        "country_code": "KY",
+        "dail_code": "+1345",
+        "name_en": "Cayman Islands",
+        "name_ar": "جزر كايمان"
+    },
+    {
+        "country_code": "CF",
+        "dail_code": "+236",
+        "name_en": "Central African Republic",
+        "name_ar": "جمهورية أفريقيا الوسطى"
+    },
+    {
+        "country_code": "TD",
+        "dail_code": "+235",
+        "name_en": "Chad",
+        "name_ar": "تشاد"
+    },
+    {
+        "country_code": "CL",
+        "dail_code": "+56",
+        "name_en": "Chile",
+        "name_ar": "تشيلي"
+    },
+    {
+        "country_code": "CN",
+        "dail_code": "+86",
+        "name_en": "China",
+        "name_ar": "الصين"
+    },
+    {
+        "country_code": "CX",
+        "dail_code": "+61",
+        "name_en": "Christmas Island",
+        "name_ar": "جزيرة الكريسماس"
+    },
+    {
+        "country_code": "CC",
+        "dail_code": "+61",
+        "name_en": "Cocos (Keeling) Islands",
+        "name_ar": "جزر كوكوس (كيلينغ)"
+    },
+    {
+        "country_code": "CO",
+        "dail_code": "+57",
+        "name_en": "Colombia",
+        "name_ar": "كولومبيا"
+    },
+    {
+        "country_code": "KM",
+        "dail_code": "+269",
+        "name_en": "Comoros",
+        "name_ar": "جزر القمر"
+    },
+    {
+        "country_code": "CG",
+        "dail_code": "+242",
+        "name_en": "Congo",
+        "name_ar": "الكونغو"
+    },
+    {
+        "country_code": "CK",
+        "dail_code": "+682",
+        "name_en": "Cook Islands",
+        "name_ar": "جزر كوك"
+    },
+    {
+        "country_code": "CR",
+        "dail_code": "+506",
+        "name_en": "Costa Rica",
+        "name_ar": "كوستاريكا"
+    },
+    {
+        "country_code": "HR",
+        "dail_code": "+385",
+        "name_en": "Croatia",
+        "name_ar": "كرواتيا"
+    },
+    {
+        "country_code": "CU",
+        "dail_code": "+53",
+        "name_en": "Cuba",
+        "name_ar": "كوبا"
+    },
+    {
+        "country_code": "CY",
+        "dail_code": "+357",
+        "name_en": "Cyprus",
+        "name_ar": "قبرص"
+    },
+    {
+        "country_code": "تشيكوسلوفاكيا",
+        "dail_code": "+420",
+        "name_en": "",
+        "name_ar": "جمهورية التشيك"
+    },
+    {
+        "country_code": "CD",
+        "dail_code": "+243",
+        "name_en": "Democratic Republic of the Congo",
+        "name_ar": "جمهورية الكونغو الديمقراطية"
+    },
+    {
+        "country_code": "DK",
+        "dail_code": "+45",
+        "name_en": "Denmark",
+        "name_ar": "الدنمارك"
+    },
+    {
+        "country_code": "DJ",
+        "dail_code": "+253",
+        "name_en": "Djibouti",
+        "name_ar": "جيبوتي"
+    },
+    {
+        "country_code": "DM",
+        "dail_code": "+1767",
+        "name_en": "Dominica",
+        "name_ar": "دومينيكا"
+    },
+    {
+        "country_code": "DO",
+        "dail_code": "+1849",
+        "name_en": "Dominican Republic",
+        "name_ar": "جمهورية الدومينيكان"
+    },
+    {
+        "country_code": "EC",
+        "dail_code": "+593",
+        "name_en": "Ecuador",
+        "name_ar": "الإكوادور"
+    },
+    {
+        "country_code": "EG",
+        "dail_code": "+20",
+        "name_en": "Egypt",
+        "name_ar": "مصر"
+    },
+    {
+        "country_code": "SV",
+        "dail_code": "+503",
+        "name_en": "El Salvador",
+        "name_ar": "السلفادور"
+    },
+    {
+        "country_code": "GQ",
+        "dail_code": "+240",
+        "name_en": "Equatorial Guinea",
+        "name_ar": "غينيا الاستوائية"
+    },
+    {
+        "country_code": "ER",
+        "dail_code": "+291",
+        "name_en": "Eritrea",
+        "name_ar": "إريتريا"
+    },
+    {
+        "country_code": "EE",
+        "dail_code": "+372",
+        "name_en": "Estonia",
+        "name_ar": "إستونيا"
+    },
+    {
+        "country_code": "SZ",
+        "dail_code": "+268",
+        "name_en": "Eswatini",
+        "name_ar": "إيسواتيني"
+    },
+    {
+        "country_code": "ET",
+        "dail_code": "+251",
+        "name_en": "Ethiopia",
+        "name_ar": "إثيوبيا"
+    },
+    {
+        "country_code": "FK",
+        "dail_code": "+500",
+        "name_en": "Falkland Islands (Malvinas)",
+        "name_ar": "جزر فوكلاند (مالفيناس)"
+    },
+    {
+        "country_code": "FO",
+        "dail_code": "+298",
+        "name_en": "Faroe Islands",
+        "name_ar": "جزر فارو"
+    },
+    {
+        "country_code": "FJ",
+        "dail_code": "+679",
+        "name_en": "Fiji",
+        "name_ar": "فيجي"
+    },
+    {
+        "country_code": "FI",
+        "dail_code": "+358",
+        "name_en": "Finland",
+        "name_ar": "فنلندا"
+    },
+    {
+        "country_code": "FR",
+        "dail_code": "+33",
+        "name_en": "France",
+        "name_ar": "فرنسا"
+    },
+    {
+        "country_code": "GF",
+        "dail_code": "+594",
+        "name_en": "French Guiana",
+        "name_ar": "غيانا الفرنسية"
+    },
+    {
+        "country_code": "PF",
+        "dail_code": "+689",
+        "name_en": "French Polynesia",
+        "name_ar": "بولينيزيا الفرنسية"
+    },
+    {
+        "country_code": "GA",
+        "dail_code": "+241",
+        "name_en": "Gabon",
+        "name_ar": "الجابون"
+    },
+    {
+        "country_code": "GM",
+        "dail_code": "+220",
+        "name_en": "Gambia",
+        "name_ar": "غامبيا"
+    },
+    {
+        "country_code": "GE",
+        "dail_code": "+995",
+        "name_en": "Georgia",
+        "name_ar": "جورجيا"
+    },
+    {
+        "country_code": "DE",
+        "dail_code": "+49",
+        "name_en": "Germany",
+        "name_ar": "ألمانيا"
+    },
+    {
+        "country_code": "GH",
+        "dail_code": "+233",
+        "name_en": "Ghana",
+        "name_ar": "غانا"
+    },
+    {
+        "country_code": "GI",
+        "dail_code": "+350",
+        "name_en": "Gibraltar",
+        "name_ar": "جبل طارق"
+    },
+    {
+        "country_code": "GR",
+        "dail_code": "+30",
+        "name_en": "Greece",
+        "name_ar": "اليونان"
+    },
+    {
+        "country_code": "GL",
+        "dail_code": "+299",
+        "name_en": "Greenland",
+        "name_ar": "جرينلاند"
+    },
+    {
+        "country_code": "GD",
+        "dail_code": "+1473",
+        "name_en": "Grenada",
+        "name_ar": "غرينادا"
+    },
+    {
+        "country_code": "GP",
+        "dail_code": "+590",
+        "name_en": "Guadeloupe",
+        "name_ar": "جوادلوب"
+    },
+    {
+        "country_code": "GU",
+        "dail_code": "+1671",
+        "name_en": "Guam",
+        "name_ar": "غوام"
+    },
+    {
+        "country_code": "GT",
+        "dail_code": "+502",
+        "name_en": "Guatemala",
+        "name_ar": "غواتيمالا"
+    },
+    {
+        "country_code": "GG",
+        "dail_code": "+ 44-1481",
+        "name_en": "Guernsey",
+        "name_ar": "غيرنسي"
+    },
+    {
+        "country_code": "GN",
+        "dail_code": "+224",
+        "name_en": "Guinea",
+        "name_ar": "غينيا"
+    },
+    {
+        "country_code": "GW",
+        "dail_code": "+245",
+        "name_en": "Guinea-Bissau",
+        "name_ar": "غينيا بيساو"
+    },
+    {
+        "country_code": "GY",
+        "dail_code": "+592",
+        "name_en": "Guyana",
+        "name_ar": "غيانا"
+    },
+    {
+        "country_code": "HT",
+        "dail_code": "+509",
+        "name_en": "Haiti",
+        "name_ar": "هايتي"
+    },
+    {
+        "country_code": "VA",
+        "dail_code": "+379",
+        "name_en": "Holy See (Vatican City State)",
+        "name_ar": "الكرسي الرسولي (دولة الفاتيكان)"
+    },
+    {
+        "country_code": "HN",
+        "dail_code": "+504",
+        "name_en": "Honduras",
+        "name_ar": "هندوراس"
+    },
+    {
+        "country_code": "HK",
+        "dail_code": "+852",
+        "name_en": "Hong Kong",
+        "name_ar": "هونغ كونغ"
+    },
+    {
+        "country_code": "HU",
+        "dail_code": "+36",
+        "name_en": "Hungary",
+        "name_ar": "المجر"
+    },
+    {
+        "country_code": "IS",
+        "dail_code": "+354",
+        "name_en": "Iceland",
+        "name_ar": "أيسلندا"
+    },
+    {
+        "country_code": "IN",
+        "dail_code": "+91",
+        "name_en": "India",
+        "name_ar": "الهند"
+    },
+    {
+        "country_code": "ID",
+        "dail_code": "+62",
+        "name_en": "Indonesia",
+        "name_ar": "إندونيسيا"
+    },
+    {
+        "country_code": "IR",
+        "dail_code": "+98",
+        "name_en": "Iran",
+        "name_ar": "إيران"
+    },
+    {
+        "country_code": "IQ",
+        "dail_code": "+964",
+        "name_en": "Iraq",
+        "name_ar": "العراق"
+    },
+    {
+        "country_code": "IE",
+        "dail_code": "+353",
+        "name_en": "Ireland",
+        "name_ar": "أيرلندا"
+    },
+    {
+        "country_code": "IM",
+        "dail_code": "+ 44-1624",
+        "name_en": "Isle of Man",
+        "name_ar": "جزيرة مان"
+    },
+    {
+        "country_code": "IL",
+        "dail_code": "+972",
+        "name_en": "Israel",
+        "name_ar": "إسرائيل"
+    },
+    {
+        "country_code": "IT",
+        "dail_code": "+39",
+        "name_en": "Italy",
+        "name_ar": "إيطاليا"
+    },
+    {
+        "country_code": "CI",
+        "dail_code": "+225",
+        "name_en": "Ivory Coast \\/ Cote d'Ivoire",
+        "name_ar": "ساحل العاج \\/ كوت ديفوار"
+    },
+    {
+        "country_code": "JM",
+        "dail_code": "+1876",
+        "name_en": "Jamaica",
+        "name_ar": "جامايكا"
+    },
+    {
+        "country_code": "JP",
+        "dail_code": "+81",
+        "name_en": "Japan",
+        "name_ar": "اليابان"
+    },
+    {
+        "country_code": "JE",
+        "dail_code": "+ 44-1534",
+        "name_en": "Jersey",
+        "name_ar": "جيرسي"
+    },
+    {
+        "country_code": "JO",
+        "dail_code": "+962",
+        "name_en": "Jordan",
+        "name_ar": "الأردن"
+    },
+    {
+        "country_code": "KZ",
+        "dail_code": "+77",
+        "name_en": "Kazakhstan",
+        "name_ar": "كازاخستان"
+    },
+    {
+        "country_code": "KE",
+        "dail_code": "+254",
+        "name_en": "Kenya",
+        "name_ar": "كينيا"
+    },
+    {
+        "country_code": "KI",
+        "dail_code": "+686",
+        "name_en": "Kiribati",
+        "name_ar": "كيريباتي"
+    },
+    {
+        "country_code": "KP",
+        "dail_code": "+850",
+        "name_en": "Korea, Democratic People's Republic of Korea",
+        "name_ar": "جمهورية كوريا الشعبية الديمقراطية"
+    },
+    {
+        "country_code": "KR",
+        "dail_code": "+82",
+        "name_en": "Korea, Republic of South Korea",
+        "name_ar": "جمهورية كوريا الجنوبية"
+    },
+    {
+        "country_code": "XK",
+        "dail_code": "+383",
+        "name_en": "Kosovo",
+        "name_ar": "كوسوفو"
+    },
+    {
+        "country_code": "KW",
+        "dail_code": "+965",
+        "name_en": "Kuwait",
+        "name_ar": "الكويت"
+    },
+    {
+        "country_code": "KG",
+        "dail_code": "+996",
+        "name_en": "Kyrgyzstan",
+        "name_ar": "قيرغيزستان"
+    },
+    {
+        "country_code": "LA",
+        "dail_code": "+856",
+        "name_en": "Laos",
+        "name_ar": "لاوس"
+    },
+    {
+        "country_code": "LV",
+        "dail_code": "+371",
+        "name_en": "Latvia",
+        "name_ar": "لاتفيا"
+    },
+    {
+        "country_code": "LB",
+        "dail_code": "+961",
+        "name_en": "Lebanon",
+        "name_ar": "لبنان"
+    },
+    {
+        "country_code": "LS",
+        "dail_code": "+266",
+        "name_en": "Lesotho",
+        "name_ar": "ليسوتو"
+    },
+    {
+        "country_code": "LR",
+        "dail_code": "+231",
+        "name_en": "Liberia",
+        "name_ar": "ليبيريا"
+    },
+    {
+        "country_code": "LY",
+        "dail_code": "+218",
+        "name_en": "Libya",
+        "name_ar": "ليبيا"
+    },
+    {
+        "country_code": "LI",
+        "dail_code": "+423",
+        "name_en": "Liechtenstein",
+        "name_ar": "ليختنشتاين"
+    },
+    {
+        "country_code": "LT",
+        "dail_code": "+370",
+        "name_en": "Lithuania",
+        "name_ar": "ليتوانيا"
+    },
+    {
+        "country_code": "LU",
+        "dail_code": "+352",
+        "name_en": "Luxembourg",
+        "name_ar": "لوكسمبورغ"
+    },
+    {
+        "country_code": "MO",
+        "dail_code": "+853",
+        "name_en": "Macau",
+        "name_ar": "ماكاو"
+    },
+    {
+        "country_code": "MG",
+        "dail_code": "+261",
+        "name_en": "Madagascar",
+        "name_ar": "مدغشقر"
+    },
+    {
+        "country_code": "MW",
+        "dail_code": "+265",
+        "name_en": "Malawi",
+        "name_ar": "ملاوي"
+    },
+    {
+        "country_code": "MY",
+        "dail_code": "+60",
+        "name_en": "Malaysia",
+        "name_ar": "ماليزيا"
+    },
+    {
+        "country_code": "MV",
+        "dail_code": "+960",
+        "name_en": "Maldives",
+        "name_ar": "جزر المالديف"
+    },
+    {
+        "country_code": "ML",
+        "dail_code": "+223",
+        "name_en": "Mali",
+        "name_ar": "مالي"
+    },
+    {
+        "country_code": "MT",
+        "dail_code": "+356",
+        "name_en": "Malta",
+        "name_ar": "مالطا"
+    },
+    {
+        "country_code": "MH",
+        "dail_code": "+692",
+        "name_en": "Marshall Islands",
+        "name_ar": "جزر مارشال"
+    },
+    {
+        "country_code": "MQ",
+        "dail_code": "+596",
+        "name_en": "Martinique",
+        "name_ar": "مارتينيك"
+    },
+    {
+        "country_code": "MR",
+        "dail_code": "+222",
+        "name_en": "Mauritania",
+        "name_ar": "موريتانيا"
+    },
+    {
+        "country_code": "MU",
+        "dail_code": "+230",
+        "name_en": "Mauritius",
+        "name_ar": "موريشيوس"
+    },
+    {
+        "country_code": "YT",
+        "dail_code": "+262",
+        "name_en": "Mayotte",
+        "name_ar": "مايوت"
+    },
+    {
+        "country_code": "MX",
+        "dail_code": "+52",
+        "name_en": "Mexico",
+        "name_ar": "المكسيك"
+    },
+    {
+        "country_code": "FM",
+        "dail_code": "+691",
+        "name_en": "Micronesia, Federated States of Micronesia",
+        "name_ar": "ولايات ميكرونيزيا الموحدة"
+    },
+    {
+        "country_code": "MD",
+        "dail_code": "+373",
+        "name_en": "Moldova",
+        "name_ar": "مولدوفا"
+    },
+    {
+        "country_code": "MC",
+        "dail_code": "+377",
+        "name_en": "Monaco",
+        "name_ar": "موناكو"
+    },
+    {
+        "country_code": "MN",
+        "dail_code": "+976",
+        "name_en": "Mongolia",
+        "name_ar": "منغوليا"
+    },
+    {
+        "country_code": "ME",
+        "dail_code": "+382",
+        "name_en": "Montenegro",
+        "name_ar": "الجبل الأسود"
+    },
+    {
+        "country_code": "MS",
+        "dail_code": "+1664",
+        "name_en": "Montserrat",
+        "name_ar": "مونتسيرات"
+    },
+    {
+        "country_code": "MA",
+        "dail_code": "+212",
+        "name_en": "Morocco",
+        "name_ar": "المغرب"
+    },
+    {
+        "country_code": "MZ",
+        "dail_code": "+258",
+        "name_en": "Mozambique",
+        "name_ar": "موزمبيق"
+    },
+    {
+        "country_code": "MM",
+        "dail_code": "+95",
+        "name_en": "Myanmar",
+        "name_ar": "ميانمار"
+    },
+    {
+        "country_code": "NA",
+        "dail_code": "+264",
+        "name_en": "Namibia",
+        "name_ar": "ناميبيا"
+    },
+    {
+        "country_code": "NR",
+        "dail_code": "+674",
+        "name_en": "Nauru",
+        "name_ar": "ناورو"
+    },
+    {
+        "country_code": "NP",
+        "dail_code": "+977",
+        "name_en": "Nepal",
+        "name_ar": "نيبال"
+    },
+    {
+        "country_code": "NL",
+        "dail_code": "+31",
+        "name_en": "Netherlands",
+        "name_ar": "هولندا"
+    },
+    {
+        "country_code": "AN",
+        "dail_code": "+599",
+        "name_en": "Netherlands Antilles",
+        "name_ar": "جزر الأنتيل الهولندية"
+    },
+    {
+        "country_code": "NC",
+        "dail_code": "+687",
+        "name_en": "New Caledonia",
+        "name_ar": "كاليدونيا الجديدة"
+    },
+    {
+        "country_code": "NZ",
+        "dail_code": "+64",
+        "name_en": "New Zealand",
+        "name_ar": "نيوزيلندا"
+    },
+    {
+        "country_code": "NI",
+        "dail_code": "+505",
+        "name_en": "Nicaragua",
+        "name_ar": "نيكاراغوا"
+    },
+    {
+        "country_code": "NE",
+        "dail_code": "+227",
+        "name_en": "Niger",
+        "name_ar": "النيجر"
+    },
+    {
+        "country_code": "NG",
+        "dail_code": "+234",
+        "name_en": "Nigeria",
+        "name_ar": "نيجيريا"
+    },
+    {
+        "country_code": "NU",
+        "dail_code": "+683",
+        "name_en": "Niue",
+        "name_ar": "نيوي"
+    },
+    {
+        "country_code": "NF",
+        "dail_code": "+672",
+        "name_en": "Norfolk Island",
+        "name_ar": "جزيرة نورفولك"
+    },
+    {
+        "country_code": "MK",
+        "dail_code": "+389",
+        "name_en": "North Macedonia",
+        "name_ar": "مقدونيا الشمالية"
+    },
+    {
+        "country_code": "MP",
+        "dail_code": "+1670",
+        "name_en": "Northern Mariana Islands",
+        "name_ar": "جزر ماريانا الشمالية"
+    },
+    {
+        "country_code": "NO",
+        "dail_code": "+47",
+        "name_en": "Norway",
+        "name_ar": "النرويج"
+    },
+    {
+        "country_code": "OM",
+        "dail_code": "+968",
+        "name_en": "Oman",
+        "name_ar": "عمان"
+    },
+    {
+        "country_code": "PK",
+        "dail_code": "+92",
+        "name_en": "Pakistan",
+        "name_ar": "باكستان"
+    },
+    {
+        "country_code": "PW",
+        "dail_code": "+680",
+        "name_en": "Palau",
+        "name_ar": "بالاو"
+    },
+    {
+        "country_code": "PS",
+        "dail_code": "+970",
+        "name_en": "Palestine",
+        "name_ar": "فلسطين"
+    },
+    {
+        "country_code": "PA",
+        "dail_code": "+507",
+        "name_en": "Panama",
+        "name_ar": "بنما"
+    },
+    {
+        "country_code": "PG",
+        "dail_code": "+675",
+        "name_en": "Papua New Guinea",
+        "name_ar": "بابوا غينيا الجديدة"
+    },
+    {
+        "country_code": "PY",
+        "dail_code": "+595",
+        "name_en": "Paraguay",
+        "name_ar": "باراغواي"
+    },
+    {
+        "country_code": "PE",
+        "dail_code": "+51",
+        "name_en": "Peru",
+        "name_ar": "بيرو"
+    },
+    {
+        "country_code": "PH",
+        "dail_code": "+63",
+        "name_en": "Philippines",
+        "name_ar": "الفلبين"
+    },
+    {
+        "country_code": "PN",
+        "dail_code": "+872",
+        "name_en": "Pitcairn",
+        "name_ar": "بيتكيرن"
+    },
+    {
+        "country_code": "PL",
+        "dail_code": "+48",
+        "name_en": "Poland",
+        "name_ar": "بولندا"
+    },
+    {
+        "country_code": "PT",
+        "dail_code": "+351",
+        "name_en": "Portugal",
+        "name_ar": "البرتغال"
+    },
+    {
+        "country_code": "PR",
+        "dail_code": "+1939",
+        "name_en": "Puerto Rico",
+        "name_ar": "بورتوريكو"
+    },
+    {
+        "country_code": "QA",
+        "dail_code": "+974",
+        "name_en": "Qatar",
+        "name_ar": "قطر"
+    },
+    {
+        "country_code": "RE",
+        "dail_code": "+262",
+        "name_en": "Reunion",
+        "name_ar": "ريونيون"
+    },
+    {
+        "country_code": "RO",
+        "dail_code": "+40",
+        "name_en": "Romania",
+        "name_ar": " رومانيا "
+    },
+    {
+        "country_code": "RU",
+        "dail_code": "+7",
+        "name_en": "Russia",
+        "name_ar": "روسيا"
+    },
+    {
+        "country_code": "RW",
+        "dail_code": "+250",
+        "name_en": "Rwanda",
+        "name_ar": "رواندا"
+    },
+    {
+        "country_code": "BL",
+        "dail_code": "+590",
+        "name_en": "Saint Barthelemy",
+        "name_ar": "سانت بارتيليمي"
+    },
+    {
+        "country_code": "SH",
+        "dail_code": "+290",
+        "name_en": "Saint Helena, Ascension and Tristan Da Cunha",
+        "name_ar": "سانت هيلانة وأسنسيون وتريستان دا كونا"
+    },
+    {
+        "country_code": "KN",
+        "dail_code": "+1869",
+        "name_en": "Saint Kitts and Nevis",
+        "name_ar": "سانت كيتس ونيفيس"
+    },
+    {
+        "country_code": "LC",
+        "dail_code": "+1758",
+        "name_en": "Saint Lucia",
+        "name_ar": "سانت لوسيا"
+    },
+    {
+        "country_code": "MF",
+        "dail_code": "+590",
+        "name_en": "Saint Martin",
+        "name_ar": "سانت مارتن"
+    },
+    {
+        "country_code": "PM",
+        "dail_code": "+508",
+        "name_en": "Saint Pierre and Miquelon",
+        "name_ar": "سان بيير وميكلون"
+    },
+    {
+        "country_code": "VC",
+        "dail_code": "+1784",
+        "name_en": "Saint Vincent and the Grenadines",
+        "name_ar": "سانت فنسنت وجزر غرينادين"
+    },
+    {
+        "country_code": "WS",
+        "dail_code": "+685",
+        "name_en": "Samoa",
+        "name_ar": "ساموا"
+    },
+    {
+        "country_code": "SM",
+        "dail_code": "+378",
+        "name_en": "San Marino",
+        "name_ar": "سان مارينو"
+    },
+    {
+        "country_code": "ST",
+        "dail_code": "+239",
+        "name_en": "Sao Tome and Principe",
+        "name_ar": "ساو تومي وبرينسيبي"
+    },
+    {
+        "country_code": "SA",
+        "dail_code": "+966",
+        "name_en": "Saudi Arabia",
+        "name_ar": "المملكة العربية السعودية"
+    },
+    {
+        "country_code": "SN",
+        "dail_code": "+221",
+        "name_en": "Senegal",
+        "name_ar": "السنغال"
+    },
+    {
+        "country_code": "RS",
+        "dail_code": "+381",
+        "name_en": "Serbia",
+        "name_ar": "صربيا"
+    },
+    {
+        "country_code": "SC",
+        "dail_code": "+248",
+        "name_en": "Seychelles",
+        "name_ar": "سيشيل"
+    },
+    {
+        "country_code": "SL",
+        "dail_code": "+232",
+        "name_en": "Sierra Leone",
+        "name_ar": "سيراليون"
+    },
+    {
+        "country_code": "SG",
+        "dail_code": "+65",
+        "name_en": "Singapore",
+        "name_ar": "سنغافورة"
+    },
+    {
+        "country_code": "SX",
+        "dail_code": "+1721",
+        "name_en": "Sint Maarten",
+        "name_ar": "سينت مارتن"
+    },
+    {
+        "country_code": "SK",
+        "dail_code": "+421",
+        "name_en": "Slovakia",
+        "name_ar": "سلوفاكيا"
+    },
+    {
+        "country_code": "SI",
+        "dail_code": "+386",
+        "name_en": "Slovenia",
+        "name_ar": "سلوفينيا"
+    },
+    {
+        "country_code": "SB",
+        "dail_code": "+677",
+        "name_en": "Solomon Islands",
+        "name_ar": "جزر سليمان"
+    },
+    {
+        "country_code": "SO",
+        "dail_code": "+252",
+        "name_en": "Somalia",
+        "name_ar": "الصومال"
+    },
+    {
+        "country_code": "ZA",
+        "dail_code": "+27",
+        "name_en": "South Africa",
+        "name_ar": "جنوب إفريقيا"
+    },
+    {
+        "country_code": "GS",
+        "dail_code": "+500",
+        "name_en": "South Georgia and the South Sandwich Islands",
+        "name_ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية"
+    },
+    {
+        "country_code": "SS",
+        "dail_code": "+211",
+        "name_en": "South Sudan",
+        "name_ar": "جنوب السودان"
+    },
+    {
+        "country_code": "ES",
+        "dail_code": "+34",
+        "name_en": "Spain",
+        "name_ar": "إسبانيا"
+    },
+    {
+        "country_code": "LK",
+        "dail_code": "+94",
+        "name_en": "Sri Lanka",
+        "name_ar": "سريلانكا"
+    },
+    {
+        "country_code": "SD",
+        "dail_code": "+249",
+        "name_en": "Sudan",
+        "name_ar": "السودان"
+    },
+    {
+        "country_code": "SR",
+        "dail_code": "+597",
+        "name_en": "Suriname",
+        "name_ar": "سورينام"
+    },
+    {
+        "country_code": "SJ",
+        "dail_code": "+47",
+        "name_en": "Svalbard and Jan Mayen",
+        "name_ar": "سفالبارد وجان ماين"
+    },
+    {
+        "country_code": "SE",
+        "dail_code": "+46",
+        "name_en": "Sweden",
+        "name_ar": "السويد"
+    },
+    {
+        "country_code": "CH",
+        "dail_code": "+41",
+        "name_en": "Switzerland",
+        "name_ar": "سويسرا"
+    },
+    {
+        "country_code": "SY",
+        "dail_code": "+963",
+        "name_en": "Syrian Arab Republic",
+        "name_ar": "الجمهورية العربية السورية"
+    },
+    {
+        "country_code": "TW",
+        "dail_code": "+886",
+        "name_en": "Taiwan",
+        "name_ar": "تايوان"
+    },
+    {
+        "country_code": "TJ",
+        "dail_code": "+992",
+        "name_en": "Tajikistan",
+        "name_ar": "طاجيكستان"
+    },
+    {
+        "country_code": "TZ",
+        "dail_code": "+255",
+        "name_en": "Tanzania, United Republic of Tanzania",
+        "name_ar": "تنزانيا , جمهورية تنزانيا المتحدة"
+    },
+    {
+        "country_code": "TH",
+        "dail_code": "+66",
+        "name_en": "Thailand",
+        "name_ar": "تايلاند"
+    },
+    {
+        "country_code": "TL",
+        "dail_code": "+670",
+        "name_en": "Timor-Leste",
+        "name_ar": "تيمور - ليشتي"
+    },
+    {
+        "country_code": "TG",
+        "dail_code": "+228",
+        "name_en": "Togo",
+        "name_ar": "توغو"
+    },
+    {
+        "country_code": "TK",
+        "dail_code": "+690",
+        "name_en": "Tokelau",
+        "name_ar": "توكيلاو"
+    },
+    {
+        "country_code": "TO",
+        "dail_code": "+676",
+        "name_en": "Tonga",
+        "name_ar": "تونغا"
+    },
+    {
+        "country_code": "TT",
+        "dail_code": "+1868",
+        "name_en": "Trinidad and Tobago",
+        "name_ar": "ترينيداد وتوباغو"
+    },
+    {
+        "country_code": "TN",
+        "dail_code": "+216",
+        "name_en": "Tunisia",
+        "name_ar": "تونس"
+    },
+    {
+        "country_code": "TR",
+        "dail_code": "+90",
+        "name_en": "Turkey",
+        "name_ar": "تركيا"
+    },
+    {
+        "country_code": "TM",
+        "dail_code": "+993",
+        "name_en": "Turkmenistan",
+        "name_ar": "تركمانستان"
+    },
+    {
+        "country_code": "TC",
+        "dail_code": "+1649",
+        "name_en": "Turks and Caicos Islands",
+        "name_ar": "جزر تركس وكايكوس"
+    },
+    {
+        "country_code": "TV",
+        "dail_code": "+688",
+        "name_en": "Tuvalu",
+        "name_ar": "توفالو"
+    },
+    {
+        "country_code": "UG",
+        "dail_code": "+256",
+        "name_en": "Uganda",
+        "name_ar": "أوغندا"
+    },
+    {
+        "country_code": "UA",
+        "dail_code": "+380",
+        "name_en": "Ukraine",
+        "name_ar": "أوكرانيا"
+    },
+    {
+        "country_code": "AE",
+        "dail_code": "+971",
+        "name_en": "United Arab Emirates",
+        "name_ar": "الإمارات العربية المتحدة"
+    },
+    {
+        "country_code": "GB",
+        "dail_code": "+44",
+        "name_en": "United Kingdom",
+        "name_ar": "المملكة المتحدة"
+    },
+    {
+        "country_code": "US",
+        "dail_code": "+1",
+        "name_en": "United States",
+        "name_ar": "الولايات المتحدة"
+    },
+    {
+        "country_code": "UMI",
+        "dail_code": "+246",
+        "name_en": "United States Minor Outlying Islands",
+        "name_ar": "جزر الولايات المتحدة البعيدة الصغيرة"
+    },
+    {
+        "country_code": "UY",
+        "dail_code": "+598",
+        "name_en": "Uruguay",
+        "name_ar": "أوروغواي"
+    },
+    {
+        "country_code": "UZ",
+        "dail_code": "+998",
+        "name_en": "Uzbekistan",
+        "name_ar": "أوزبكستان"
+    },
+    {
+        "country_code": "VU",
+        "dail_code": "+678",
+        "name_en": "Vanuatu",
+        "name_ar": "فانواتو"
+    },
+    {
+        "country_code": "VE",
+        "dail_code": "+58",
+        "name_en": "Venezuela, Bolivarian Republic of Venezuela",
+        "name_ar": "فنزويلا , جمهورية فنزويلا البوليفارية"
+    },
+    {
+        "country_code": "VN",
+        "dail_code": "+84",
+        "name_en": "Vietnam",
+        "name_ar": "فيتنام"
+    },
+    {
+        "country_code": "VG",
+        "dail_code": "+1284",
+        "name_en": "Virgin Islands, British",
+        "name_ar": "جزر فيرجن البريطانية"
+    },
+    {
+        "country_code": "VI",
+        "dail_code": "+1340",
+        "name_en": "Virgin Islands, U.S.",
+        "name_ar": "جزر فيرجن , الولايات المتحدة"
+    },
+    {
+        "country_code": "WF",
+        "dail_code": "+681",
+        "name_en": "Wallis and Futuna",
+        "name_ar": "واليس وفوتونا"
+    },
+    {
+        "country_code": "YE",
+        "dail_code": "+967",
+        "name_en": "Yemen",
+        "name_ar": "اليمن"
+    },
+    {
+        "country_code": "ZM",
+        "dail_code": "+260",
+        "name_en": "Zambia",
+        "name_ar": "زامبيا"
+    },
+    {
+        "country_code": "ZW",
+        "dail_code": "+263",
+        "name_en": "Zimbabwe",
+        "name_ar": "زمبابوي"
+    }
+]
